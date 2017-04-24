@@ -15,8 +15,8 @@ You can dynamically define the color scheme and Google fonts at the top of the t
 $wplp_color_background = "#fff";
 $wplp_color_text       = "#333";
 $wplp_color_accent     = "#4caf50";
-$wplp_font_title_url   = "Merriweather";
-$wplp_font_body_url    = "Open Sans";
+$wplp_font_title       = "Merriweather";
+$wplp_font_body        = "Open Sans";
 
 ?><!DOCTYPE HTML>
 ...```
